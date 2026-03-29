@@ -1,6 +1,3 @@
-#  Stay Safe Online: A Prevention Checklist for Students
-
-As a Student Digital Ambassador, maintaining a secure digital presence is essential. Use this checklist to protect your data, identity, and finances.
 
 ###  General Digital Safety
 1. **Enable Two-Factor Authentication (2FA):** Secure your Google, LinkedIn, and Instagram accounts using an authenticator app or SMS codes to prevent unauthorized logins.
@@ -23,4 +20,3 @@ If you or someone you know falls victim to a digital scam, act immediately to in
 * **National Helpline Number:** **1930** (Available 24/7)
 
 ---
-*Prepared by: Abhijay Joshi, Student Digital Ambassador*
