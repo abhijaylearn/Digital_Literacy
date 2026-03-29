@@ -11,6 +11,7 @@ This repository serves as my Digital Literacy Portfolio for the CSE0001 course a
 * **Module 2:** Established a professional presence on GitHub and LinkedIn.
 * **Module 3:** Completed a coding challenge and created a digital awareness quiz.
 * **Module 4:** Drafted professional emails and a social media etiquette guide.
+* **Module 5:** Researched a cybercrime case study and prevention strategies.
 
 ## Links
 * **Digital Literacy Quiz:** https://docs.google.com/forms/d/e/1FAIpQLSdfESipdOMiiOIDMKkD8hXLEbC2ro-VKZYMIwThZcRM8MN6SQ/viewform?usp=sharing&ouid=107362046143316257717 
