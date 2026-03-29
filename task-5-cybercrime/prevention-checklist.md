@@ -7,7 +7,7 @@
 5. **Verify "Urgent" Requests:** If you receive a message claiming your "Scholarship" or "Placement Account" will be deleted unless you click a link, it is likely a phishing scam.
 6. **Think Before You Post:** Avoid sharing your Aadhaar number, home address, or private phone number in public stories or "About" sections.
 
-###  Financial & UPI Safety (India Specific)
+###  Financial & UPI Safety 
 7. **PIN is for SENDING, Not Receiving:** Remember that you **never** need to enter your UPI PIN to receive money. If someone sends you a "Collect Request" to give you a prize, it is a scam.
 8. **Verify the Merchant Name:** Before hitting 'Pay' on GPay, PhonePe, or Paytm, always double-check the verified name displayed on the screen to ensure it matches the intended recipient.
 
